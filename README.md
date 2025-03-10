@@ -1,6 +1,6 @@
-#Huffman Compression#
+# Huffman Compression #
 
-##A short demo program in C.##
+## A short demo program in C. ##
 
 This command line app compresses and decompresses files using Huffman's coding. As an input it is required to specify 2 parameters.
 
